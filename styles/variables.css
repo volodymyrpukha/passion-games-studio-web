@@ -1,0 +1,13 @@
+:root {
+  --clr-primary: #9263ff;
+  --clr-primary-dk: #6e4bcc;
+
+  --clr-secondary: #32bbf1;
+
+  --clr-ntrl-min: #ffffff;
+  --clr-ntrl-max: #333333;
+  --clr-ntrl-alt: #b7bfd3;
+
+  --ff-base: "Inter", sans-serif;
+  --ff-alt: "Montserrat", sans-serif;
+}
